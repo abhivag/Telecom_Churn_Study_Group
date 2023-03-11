@@ -3,7 +3,7 @@
 ## Problem Statement
 This case study involves to predict from the telecom companies data, which customer are at high risk churn
 
-# Task and objectives:
+## Task and objectives:
 - Reduce customer churn and predict high risk of churn
 - Build predict model and identify main reasons for churn
 - List high profitable customer is the final goal of the case study
